@@ -1,4 +1,6 @@
 ```
-Your PC needs to restart.
-Please hold down the power button.
+Your cour   o rr
+ o o   or uo
+rror o
 ```
+
