@@ -7,4 +7,3 @@
 * I like the outdoors.
 * I think weather is cool.
 ---
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owie-ow-ow&theme=nord_dark)
